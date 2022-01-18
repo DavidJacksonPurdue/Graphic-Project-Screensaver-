@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(252,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(258,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(266,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(272,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(280,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(286,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(294,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(300,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\OpenGLFramework\main.cpp(409,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  29 of 30 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLFramework.vcxproj -> C:\Users\David Jackson\Documents\CS Homework\CS 334\CS 334 Assignment0, David Jackson, jacks668\OpenGLFramework\Release\OpenGLFramework.exe
